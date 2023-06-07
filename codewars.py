@@ -18,8 +18,3 @@ class Sphere:
     def get_density(self):
         return (round(self.density,5))  
 ball = Sphere(2,50)
-ball.get_radius()   
-ball.get_mass()
-ball.get_volume()
-ball.get_surface_area()
-ball.get_densreturn 
